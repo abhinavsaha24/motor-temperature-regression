@@ -36,4 +36,4 @@ Linear Regression
 The model achieved good performance and successfully predicted motor temperature rise based on input features.
 
 ## Conclusion
-The regression model demonstrates how machine learning can be applied to predict motor heating behavior and analyze the influence of operational parameters. Pr
+The regression model demonstrates how machine learning can be applied to predict motor heating behavior and analyze the influence of operational parameters. 
